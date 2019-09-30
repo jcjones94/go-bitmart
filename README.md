@@ -1,2 +1,2 @@
-# go-bitmart
-A Golang SDK for bitmart API.
+# go-bitforex
+Golang SDK for bitforex api
